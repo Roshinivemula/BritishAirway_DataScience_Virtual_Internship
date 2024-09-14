@@ -15,3 +15,4 @@ Data science virtual internship programme by British Airways through Forage!
 
 
 [certificate.pdf](https://github.com/user-attachments/files/17000995/certificate.pdf)
+![certificate.alt](https://github.com/Roshinivemula/BritishAirway_DataScience_Virtual_Internship/blob/main/Screenshot%202024-09-14%20101457.png?raw=true)
